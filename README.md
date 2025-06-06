@@ -1,4 +1,4 @@
-# Excel-Logical-functions-Project
+# Excel-Logical_functions_Project
 Applying logical functions in the worksheet
 
 # To-Do List
